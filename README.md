@@ -49,13 +49,11 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
 
-<img width="1208" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e7aade9-f83d-4395-8d4d-c5b1253c6c6c" />
-
+<img width="2160" height="1508" alt="image" src="https://github.com/user-attachments/assets/16145620-6e2f-45a5-8925-0b1a09d03927" />
 
 ## C.Analysis of Results: (Write your own)
 
-<img width="2160" height="1508" alt="image" src="https://github.com/user-attachments/assets/16145620-6e2f-45a5-8925-0b1a09d03927" />
-
+<img width="1208" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e7aade9-f83d-4395-8d4d-c5b1253c6c6c" />
 
 ## D.Conclusions: (Write your Own)
 
